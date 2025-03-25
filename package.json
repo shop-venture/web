@@ -1,0 +1,26 @@
+{
+  "name": "Shopventure",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.19",
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@supabase/supabase-js": "^2.46.2",
+    "@tinymce/tinymce-react": "^5.1.1",
+    "browser-image-compression": "^2.0.2",
+    "framer-motion": "^10.12.16",
+    "next": "^15.1.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.4.0",
+    "react-router-dom": "^7.0.2"
+  }
+}
