@@ -99,7 +99,7 @@ export default function DownloadPage() {
                         </Text>
                        <HStack justify="center" spacing={4} wrap="wrap">
                                 {session ? (
-                                    <Link href="images/TQwkCDAUYlulW7X2Wf0TYgdz.webp" download="shopventure_image.webp">
+                                    <Link href="https://bjwiinzcbuvjoxfhuhay.supabase.co/storage/v1/object/public/game//shopventure.rar" download="shopventure_image.webp">
                                         <Button
                                             colorScheme="purple"
                                             bg="purple.500"
